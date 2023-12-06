@@ -1,7 +1,8 @@
 # sql-challenge
-Data Modeling <br>
+<b> Data Modeling </b> <br>
 ![entity relationship diagram](https://github.com/josephlomas/sql-challenge/assets/146393942/3ed24cd3-46dc-4906-b545-fe5673495a8c) <br>
-Data Engineering <br>
+<br>
+<b> Data Engineering </b> <br>
 •	departments <br>
 ![departments](https://github.com/josephlomas/sql-challenge/assets/146393942/1213093c-3e99-4ebb-8f97-e7d5b11d6e95) <br>
 •	dept_manager <br>
@@ -14,7 +15,8 @@ Data Engineering <br>
 ![titles](https://github.com/josephlomas/sql-challenge/assets/146393942/15bffb9a-6ff4-4cec-8faa-65852dccedde) <br>
  •	salaries <br>
 ![salaries](https://github.com/josephlomas/sql-challenge/assets/146393942/ca089db5-be86-42b0-aed5-b2a633d1b2ca) <br>
-Data Analysis <br>
+<br>
+<b> Data Analysis </b> <br>
 1. <br>
 ![one](https://github.com/josephlomas/sql-challenge/assets/146393942/23d94a62-8964-493e-9a93-27a0b2c562c1) <br>
 2. <br> 
